@@ -148,3 +148,13 @@
 .offer-description{
   color: var(--gray-light);
 }
+/* Instagrame */
+.instagram-container{
+  text-align: center;
+}
+.img-part{
+  padding: 87px 175px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

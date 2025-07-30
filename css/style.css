@@ -109,3 +109,21 @@
   font-size: 14px;
   text-decoration: underline;
 }
+/* dalivery system */
+ .dalivery{
+    margin: 0 190px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    background-color: #F4F4F4;
+    display: flex;
+    justify-content: space-between;
+    padding: 87px 175px;
+ }
+.dalivery-card img{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.item-servic{
+    color: var(--gray-light);
+    text-align: center;
+}

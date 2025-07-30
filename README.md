@@ -28,3 +28,15 @@ A beautiful, minimal, and responsive **flower shop landing page** created using 
 ## 📸 Screenshot
 
 <img src="https://i.postimg.cc/XXX/flower-shop.png" alt="Flower Shop Screenshot" width="1000"/>
+
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amdadislam01/Flower.git
+
+
+

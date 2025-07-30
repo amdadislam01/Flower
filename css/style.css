@@ -127,3 +127,24 @@
     color: var(--gray-light);
     text-align: center;
 }
+/* offer section  */
+
+.container{
+  width: 550px;
+  text-align: center;
+}
+
+.offer{
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 87px 350px;
+}
+.offer-title{
+  font-size: 40px;
+  font-weight: 900;
+}
+.offer-description{
+  color: var(--gray-light);
+}

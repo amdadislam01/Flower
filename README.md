@@ -27,7 +27,7 @@ A beautiful, minimal, and responsive **flower shop landing page** created using 
 
 ## 📸 Screenshot
 
-<img src="https://i.postimg.cc/XXX/flower-shop.png" alt="Flower Shop Screenshot" width="1000"/>
+<img src="https://ik.imagekit.io/yqnbhdlo4/Img/screencapture-127-0-0-1-5500-index-html-2025-07-30-15_13_56.png?updatedAt=1753867034670" width="1000"/>
 
 
 ---

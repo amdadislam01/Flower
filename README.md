@@ -20,7 +20,7 @@ A beautiful, minimal, and responsive **flower shop landing page** created using 
 ## 🛠️ Technologies Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwindcss" alt="Tech Stack" width="120"/>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" width="120"/>
 </p>
 
 ---

@@ -182,3 +182,22 @@ input{
   border: none;
   padding: 5px;
 }
+/* Footer */
+footer{
+  height: 400px;
+  background-color: #181818;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+#floer{
+  color: #e55473;
+}
+.footer-continer{
+  width: 700px;
+}
+p{
+  color: var(--gray-light);
+}

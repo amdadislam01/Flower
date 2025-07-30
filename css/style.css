@@ -135,6 +135,8 @@
 }
 
 .offer{
+    margin-top: 100px;
+    background-color: #fceef1;
   width: 1200px;
   display: flex;
   justify-content: space-between;
@@ -150,6 +152,7 @@
 }
 /* Instagrame */
 .instagram-container{
+    margin-top: 100px;
   text-align: center;
 }
 .img-part{
